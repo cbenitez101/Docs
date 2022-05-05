@@ -5,18 +5,18 @@ Moneris is a Splynx add-on used to pay invoices and proforma invoices with the [
 
 ### Add-on installation
 
-The add-on can be installed in two methods, via the CLI or the Web UI of your Splynx server.
+The add-on can be installed in two methods, via the **CLI** or the **Web UI** of your Splynx server.
 
-To install the add-on via CLI the following commands can be used:
+To install the *Moneris* add-on via **CLI** the following commands can be used:
 
 ```bash
 apt-get update
 apt-get install splynx-moneris
 ```
 
-To install it via the Web UI
+To install it via the **Web UI**:
 
-Navigate to `Config / Integrations / Add-ons`  
+Navigate to `Config → Integrations → Add-ons`  
 
   ![(image)](image2018-8-21_9-43-43.png)
 
