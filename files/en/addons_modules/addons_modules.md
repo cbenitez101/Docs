@@ -23,4 +23,5 @@ In this section, we can view, install or delete useful add-ons for integration w
 * [splynx-ssh-term](addons_modules/splynx-ssh-term/splynx-ssh-term.md)
 * [splynx_remote_support](addons_modules/splynx_remote_support/splynx_remote_support.md)
 * [TowerCoverage Integration](addons_modules/towercoverage/towercoverage.md)
+* [HotSpot configuration and VulaCoin integration](addons_modules/hotspot_vulacoin/hotspot_vulacoin.md)
 * [Xero accounting](addons_modules/xero/xero.md)
